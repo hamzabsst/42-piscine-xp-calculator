@@ -19,5 +19,21 @@ This program calculates the experience points (exp) for poolers in a 42 pool. It
 1. Clone the repository:
    ```bash
    git clone https://github.com//hamzabsst/42-piscine-xp-calculator
+2. Enter the repositry:
+   ```bash
+   cd 42-piscine-xp-calculator
+3. Compile the program:
+   ```bash
+   gcc exp_calculator.c
+4. Run the program:
+   for linux/mac:
+   ```bash
+   ./a.out
+   ```
+   for windows:
+   ```bash
+   ./a.exe
+   ```
+   follow the instructions.
 
 <br/>
