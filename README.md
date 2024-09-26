@@ -26,14 +26,29 @@ This program calculates the experience points (exp) for poolers in a 42 pool. It
    ```bash
    gcc exp_calculator.c
 4. Run the program:
-   for linux/mac:
+
+   linux / Mac:
    ```bash
    ./a.out
    ```
-   for windows:
+   windows:
    ```bash
    ./a.exe
    ```
    follow the instructions.
+## (EXP) Rewards
+
+In this program, the following experience points are awarded based on your performance:
+
+--Days Completed: Achieve a full 100/100 to earn 100 EXP.
+
+--Exam Completed: Successfully complete a 100/100 exam to gain 225 EXP.
+
+--Rush Completed: Complete a 100/100 rush for a total of 150 EXP.
+
+--Final Exam Completed: Conclude your studies with a 100/100 on the final exam to earn 375 EXP.
+
+These rewards are designed to help you track your progress and motivate your learning journey!
+
 
 <br/>
