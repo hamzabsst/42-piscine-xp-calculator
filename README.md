@@ -26,14 +26,8 @@ This program calculates the experience points (exp) for poolers in a 42 pool. It
    ```bash
    gcc exp_calculator.c
 4. Run the program:
-
-   linux / Mac:
    ```bash
    ./a.out
-   ```
-   windows:
-   ```bash
-   ./a.exe
    ```
    follow the instructions.
 ## (EXP) Rewards
